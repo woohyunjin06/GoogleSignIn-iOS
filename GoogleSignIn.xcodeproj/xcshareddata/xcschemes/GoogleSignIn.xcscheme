@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A3D80D9926FA4EFF0050C28E"
                BuildableName = "GoogleSignIn.framework"
-               BlueprintName = "GoogleSignIn"
+               BlueprintName = "GoogleSignInWrapper"
                ReferencedContainer = "container:GoogleSignIn.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -52,7 +52,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A3D80D9926FA4EFF0050C28E"
             BuildableName = "GoogleSignIn.framework"
-            BlueprintName = "GoogleSignIn"
+            BlueprintName = "GoogleSignInWrapper"
             ReferencedContainer = "container:GoogleSignIn.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
